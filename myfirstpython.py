@@ -1,0 +1,1 @@
+print("Tribhuvan goudre ,hegidira,oota ayta")
